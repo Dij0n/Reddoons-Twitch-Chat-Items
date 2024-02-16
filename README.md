@@ -1,6 +1,6 @@
 # Reddons' Twitch chat Item pack
 
-## NOTE: THIS PACK RELIES ON EXTERNAL SOFTWARE TO READ TWITCH CHAT! IT WILL NOT WORK INDEPENDENTLY
+*NOTE: THIS PACK RELIES ON EXTERNAL SOFTWARE TO READ TWITCH CHAT! IT WILL NOT WORK INDEPENDENTLY*
 
 I made a Random Item Giver pack for Reddoons with the added feature of allowing chat to vote on which item was given to the streamer
 
